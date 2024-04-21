@@ -554,8 +554,8 @@ section {
 }
 
 .portfolio .portfolio-wrap .img-fluid {
-  height: auto;
-  width: auto;
+  height: 220px;
+  width: 100%;
   transition: 0.3s;
   position: relative;
   overflow: hidden;
