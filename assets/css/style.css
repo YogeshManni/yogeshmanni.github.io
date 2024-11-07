@@ -1114,3 +1114,25 @@ section {
 .disablelink {
   pointer-events: none;
 }
+
+.icon-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #149ddd; /* Default background color */
+  color: #fff; /* Icon color */
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.icon-circle:hover {
+  background-color: white; /* Hover background color */
+  color: #149ddd;
+  transform: scale(1.1); /* Hover effect */
+}
+
+.icon-circle i {
+  font-size: 1.5rem;
+}
