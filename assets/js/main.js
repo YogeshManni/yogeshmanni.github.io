@@ -1,217 +1,114 @@
-(function (_0x3cb95e, _0x307c4b) {
-  const _0x390cc3 = _0x1827,
-    _0x591ae2 = _0x3cb95e();
+(function (_0x4077c1, _0x5a4bbc) {
+  const _0x3cb5d9 = _0x2221,
+    _0x152548 = _0x4077c1();
   while (!![]) {
     try {
-      const _0x30c328 =
-        (parseInt(_0x390cc3(0x8c)) / 0x1) * (parseInt(_0x390cc3(0xb3)) / 0x2) +
-        (-parseInt(_0x390cc3(0xe8)) / 0x3) * (parseInt(_0x390cc3(0xde)) / 0x4) +
-        (-parseInt(_0x390cc3(0xe0)) / 0x5) * (parseInt(_0x390cc3(0xac)) / 0x6) +
-        (parseInt(_0x390cc3(0xad)) / 0x7) * (parseInt(_0x390cc3(0xb0)) / 0x8) +
-        parseInt(_0x390cc3(0x8d)) / 0x9 +
-        parseInt(_0x390cc3(0xdb)) / 0xa +
-        -parseInt(_0x390cc3(0xd7)) / 0xb;
-      if (_0x30c328 === _0x307c4b) break;
-      else _0x591ae2["push"](_0x591ae2["shift"]());
-    } catch (_0x682067) {
-      _0x591ae2["push"](_0x591ae2["shift"]());
+      const _0x30cbce =
+        parseInt(_0x3cb5d9(0x131)) / 0x1 +
+        (parseInt(_0x3cb5d9(0x103)) / 0x2) *
+          (-parseInt(_0x3cb5d9(0xf5)) / 0x3) +
+        (-parseInt(_0x3cb5d9(0x105)) / 0x4) *
+          (-parseInt(_0x3cb5d9(0xf3)) / 0x5) +
+        -parseInt(_0x3cb5d9(0x12c)) / 0x6 +
+        parseInt(_0x3cb5d9(0x124)) / 0x7 +
+        (-parseInt(_0x3cb5d9(0x12a)) / 0x8) *
+          (parseInt(_0x3cb5d9(0x156)) / 0x9) +
+        parseInt(_0x3cb5d9(0x127)) / 0xa;
+      if (_0x30cbce === _0x5a4bbc) break;
+      else _0x152548["push"](_0x152548["shift"]());
+    } catch (_0x46a506) {
+      _0x152548["push"](_0x152548["shift"]());
     }
   }
-})(_0x3202, 0x553ba);
-function _0x3202() {
-  const _0x240c3e = [
-    "Sending\x20Message....",
-    "socialbook",
-    "load",
-    "contains",
-    "covidTracker",
-    "ease-in-out",
-    "querySelector",
-    "2.png",
-    "active",
-    "#navbar\x20.scrollto",
-    "mobile-nav-active",
-    "AngularJS,\x20Typescript,\x20Node.js,\x20MongoDB,\x20NG-ZORRO\x20Ant\x20design,\x20SCSS",
-    "block",
-    ".testimonials-slider",
-    "projectImg2",
-    "arrange",
-    ".typed",
-    "https://teamybyyogesh.web.app/",
-    ".mobile-nav-toggle",
-    "add",
-    "1XJrNjz",
-    "1921833LKTonW",
-    "refresh",
-    "c5e9bf8d-df6b-4c0e-a1c9-76814802a10c",
-    "getElementById",
-    ".scrollto",
-    "samlauser2@gmail.com",
-    "Social\x20Book",
-    "none",
-    "remove",
-    "href",
-    "aria-valuenow",
-    "toggle",
-    "Covid\x2019\x20tracker",
-    "Onspot\x20Music\x20Streaming\x20App",
-    "addEventListener",
-    "querySelectorAll",
-    "Onspot\x20is\x20a\x20music\x20streaming\x20app,\x20where\x20you\x20can\x20listen\x20to\x20latest\x20top\x0a\x20\x20\x20\x20tracks,\x20music\x20albumbs\x20and\x20to\x20your\x20favourite\x20artists.\x20You\x20can\x20take\x20a\x20tour\x20of\x20the\x20site\x20to\x20listen\x20to\x20previews\x20and\x20can\x20login\x20with\x20google\x0a\x20\x20\x20\x20to\x20do\x20much\x20more\x20and\x20make\x20your\x20own\x20playlists\x20and\x20collections.",
-    "N/A",
-    "ReactJS,\x20Javascript,\x20Material\x20UI,\x20Node.js,\x20CSS",
-    "Chatify\x20is\x20a\x20modern\x20messaging\x20platform\x20designed\x20to\x20make\x20communication\x20seamless\x20and\x20intuitive,\x20just\x20like\x20popular\x20messaging\x20apps\x20such\x20as\x20WhatsApp.\x20With\x20Chatify,\x20users\x20can\x20create\x20accounts,\x20log\x20in,\x20and\x20start\x20messaging\x20friends\x20instantly.\x20Whether\x20you\x27re\x20sharing\x20text,\x20photos,\x20or\x20videos,\x20Chatify\x20offers\x20a\x20smooth\x20and\x20secure\x20experience.\x20Users\x20can\x20also\x20set\x20up\x20personalized\x20profiles\x20to\x20express\x20their\x20identity\x20while\x20staying\x20connected\x20with\x20others.",
-    "chatify",
-    ".skills-content",
-    "React,\x20Node.js,\x20MongoDB,\x20SCSS,\x20Javascript",
-    "filter-active",
-    "https://socialbook-3d2aa.web.app/",
-    "bi-x",
-    "preventDefault",
-    "onspot",
-    "init",
-    "Pastebin\x20Copy\x20&\x20Paste",
-    "location",
-    "5886ZDXVXs",
-    "49GbgDdr",
-    "React.js,\x20Node.js,\x20Firebase,\x20Postgres,\x20Tailwind,\x20Ant-design",
-    "display",
-    "676024dpogya",
-    "AngularJS,\x20Node.js,\x20Typescript,\x20MongoDB,\x20CSS,\x20SCSS",
-    "Teamy\x20Video\x20calling\x20app",
-    "191290MlHrSZ",
-    "auto",
-    "projectUrl",
-    "setItem",
-    "sendMailBtn",
-    "value",
-    "src",
-    "successMessage",
-    "scrollY",
-    "getItem",
-    ".portfolio-details-slider",
-    "projectImg1",
-    "bullets",
-    "#portfolio-flters\x20li",
-    "Social\x20Book\x20is\x20a\x20social\x20media\x20website\x20where\x20a\x20user\x20can\x20upload\x20images\x20and\x20videos.\x20People\x20can\x20see\x20each\x20other\x20posts\x20and\x20like,\x20comment\x20and\x20share\x20them",
-    "scroll",
-    "projectName",
-    "Send\x20Message",
-    "projectLink",
-    "Message\x20from\x20",
-    "teamy",
-    "https://chatify01.web.app/",
-    "click",
-    "trim",
-    "forEach",
-    "ReactJS,\x20Postgres,\x20Tailwind,\x20Node.js,\x20Microsoft\x20Azure,\x20Firebase",
-    "\x20\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Message\x20-\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20",
-    "data-filter",
-    "smooth",
-    "assets/img/portfolio/",
-    "innerHTML",
-    "email",
-    "Copy\x20&\x20paste\x20is\x20a\x20web\x20app\x20where\x20user\x20can\x20create\x20and\x20update\x20texts,\x20codes,\x20lists\x20and\x20share\x20the\x20links\x20to\x20their\x20document\x20to\x0a\x20\x20\x20\x20anyone.\x20\x20User\x20can\x20protect\x20his\x20document\x20by\x20setting\x20a\x20password,\x20so\x20only\x20the\x20author\x20or\x20trusty\x20person\x20can\x20open\x20it.\x20",
-    "send",
-    "offsetTop",
-    "bi-list",
-    "1930511lclQbg",
-    "data-typed-items",
-    "hash",
-    ".portfolio-container",
-    "6010220jZszfZ",
-    "offsetHeight",
-    "errorMessage",
-    "4wgfJlH",
-    "classList",
-    "1745NywoeE",
-    "pastebin",
-    "getAttribute",
-    "Teamy\x20is\x20a\x20video\x20calling\x20app\x20for\x20talking\x20to\x20strangers\x20or\x20to\x20you\x20friends\x20online.\x20By\x20logging\x20in\x20you\x20can\x20converse\x20with\x20\x0a\x20\x20\x20\x20your\x20previous\x20friends\x20or\x20simply\x20enter\x20a\x20name\x20to\x20hop\x20on\x20network\x20and\x20talk\x20with\x20guest\x20users",
-    "body",
-    ".swiper-pagination",
-    "1.png",
-    "subject",
-    "1904223cOlErI",
-    "scrollTo",
-    "fillMessage",
-    "techStack",
-    "https://paste1.web.app/",
-    "style",
-    "disablelink",
-    "https://onspot-efb66.web.app/",
-  ];
-  _0x3202 = function () {
-    return _0x240c3e;
-  };
-  return _0x3202();
+})(_0x4355, 0x72868);
+function _0x2221(_0x1c9a61, _0x28b775) {
+  const _0x435539 = _0x4355();
+  return (
+    (_0x2221 = function (_0x222195, _0x3e2f44) {
+      _0x222195 = _0x222195 - 0xf3;
+      let _0x3b5a34 = _0x435539[_0x222195];
+      return _0x3b5a34;
+    }),
+    _0x2221(_0x1c9a61, _0x28b775)
+  );
 }
-const fillSession = (_0x3c83bc) => {
-    const _0x1bed37 = _0x1827;
-    sessionStorage[_0x1bed37(0xb6)](_0x1bed37(0xc3), _0x3c83bc);
+const fillSession = (_0x21ff27) => {
+    const _0x503d46 = _0x2221;
+    sessionStorage[_0x503d46(0x149)](_0x503d46(0x147), _0x21ff27);
   },
   fillDetails = () => {
-    const _0x3dce40 = _0x1827,
-      _0x4b515d = sessionStorage[_0x3dce40(0xbc)](_0x3dce40(0xc3)),
-      _0x1d7a1d = document[_0x3dce40(0x90)]("projectCategory"),
-      _0x1bd639 = document[_0x3dce40(0x90)](_0x3dce40(0xeb)),
-      _0x2a9979 = document[_0x3dce40(0x90)](_0x3dce40(0xb5)),
-      _0x3d33bb = document["getElementById"]("projectDetails"),
-      _0x1d732e = document["getElementById"](_0x3dce40(0xc5));
-    (document["getElementById"](_0x3dce40(0xbe))["src"] =
-      _0x3dce40(0xd0) + _0x4b515d + _0x3dce40(0xe6)),
-      (document[_0x3dce40(0x90)](_0x3dce40(0x86))[_0x3dce40(0xb9)] =
-        _0x3dce40(0xd0) + _0x4b515d + _0x3dce40(0x7f)),
-      _0x1d732e["classList"]["remove"](_0x3dce40(0xee));
-    if (_0x4b515d == _0x3dce40(0xa8)) {
-      (_0x1d7a1d[_0x3dce40(0xd1)] = _0x3dce40(0x9a)),
-        (_0x1bd639[_0x3dce40(0xd1)] = _0x3dce40(0xa3)),
-        (_0x2a9979[_0x3dce40(0xd1)] = _0x3dce40(0xef)),
-        (_0x1d732e[_0x3dce40(0x96)] = "https://onspot-efb66.web.app/");
-      const _0x102cb9 = _0x3dce40(0x9d);
-      _0x3d33bb[_0x3dce40(0xd1)] = _0x102cb9;
+    const _0x299f05 = _0x2221,
+      _0x1ec532 = sessionStorage[_0x299f05(0x164)](_0x299f05(0x147)),
+      _0x19000c = document["getElementById"](_0x299f05(0x169)),
+      _0x59dee1 = document[_0x299f05(0x152)]("techStack"),
+      _0x1ff33 = document[_0x299f05(0x152)](_0x299f05(0x153)),
+      _0x108dc0 = document[_0x299f05(0x152)]("projectDetails"),
+      _0x16494b = document[_0x299f05(0x152)](_0x299f05(0x13c));
+    (document[_0x299f05(0x152)](_0x299f05(0xfc))[_0x299f05(0x168)] =
+      _0x299f05(0x154) + _0x1ec532 + "1.png"),
+      (document[_0x299f05(0x152)](_0x299f05(0x13b))[_0x299f05(0x168)] =
+        _0x299f05(0x154) + _0x1ec532 + _0x299f05(0x110)),
+      _0x16494b["classList"]["remove"]("disablelink");
+    if (_0x1ec532 == _0x299f05(0x13f)) {
+      (_0x19000c[_0x299f05(0x15a)] = "Onspot\x20Music\x20Streaming\x20App"),
+        (_0x59dee1[_0x299f05(0x15a)] = _0x299f05(0x12f)),
+        (_0x1ff33[_0x299f05(0x15a)] = "https://onspot-efb66.web.app/"),
+        (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x129));
+      const _0x2578b6 = _0x299f05(0x128);
+      _0x108dc0[_0x299f05(0x15a)] = _0x2578b6;
     } else {
-      if (_0x4b515d == _0x3dce40(0xc7)) {
-        (_0x1d7a1d[_0x3dce40(0xd1)] = _0x3dce40(0xb2)),
-          (_0x1bd639[_0x3dce40(0xd1)] = _0x3dce40(0xb1)),
-          (_0x2a9979[_0x3dce40(0xd1)] = "https://teamybyyogesh.web.app/"),
-          (_0x1d732e["href"] = _0x3dce40(0x89));
-        const _0x420407 = _0x3dce40(0xe3);
-        _0x3d33bb[_0x3dce40(0xd1)] = _0x420407;
+      if (_0x1ec532 == _0x299f05(0x109)) {
+        (_0x19000c["innerHTML"] = _0x299f05(0x167)),
+          (_0x59dee1["innerHTML"] = _0x299f05(0x119)),
+          (_0x1ff33[_0x299f05(0x15a)] = _0x299f05(0x13d)),
+          (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x13d));
+        const _0x26f3d1 =
+          "Teamy\x20is\x20a\x20video\x20calling\x20app\x20for\x20talking\x20to\x20strangers\x20or\x20to\x20you\x20friends\x20online.\x20By\x20logging\x20in\x20you\x20can\x20converse\x20with\x20\u00a0\x20\u00a0\x20your\x20previous\x20friends\x20or\x20simply\x20enter\x20a\x20name\x20to\x20hop\x20on\x20network\x20and\x20talk\x20with\x20guest\x20users";
+        _0x108dc0["innerHTML"] = _0x26f3d1;
       } else {
-        if (_0x4b515d == _0x3dce40(0xe1)) {
-          (_0x1d7a1d[_0x3dce40(0xd1)] = _0x3dce40(0xaa)),
-            (_0x1bd639[_0x3dce40(0xd1)] = _0x3dce40(0x83)),
-            (_0x2a9979[_0x3dce40(0xd1)] = _0x3dce40(0xec)),
-            (_0x1d732e["href"] = "https://paste1.web.app/");
-          const _0x5164f1 = _0x3dce40(0xd3);
-          _0x3d33bb[_0x3dce40(0xd1)] = _0x5164f1;
+        if (_0x1ec532 == _0x299f05(0x10d)) {
+          (_0x19000c[_0x299f05(0x15a)] = _0x299f05(0x140)),
+            (_0x59dee1["innerHTML"] = _0x299f05(0xff)),
+            (_0x1ff33["innerHTML"] = "https://paste1.web.app/"),
+            (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x11d));
+          const _0xe0b8d2 =
+            "Copy\x20&\x20paste\x20is\x20a\x20web\x20app\x20where\x20user\x20can\x20create\x20and\x20update\x20texts,\x20codes,\x20lists\x20and\x20share\x20the\x20links\x20to\x20their\x20document\x20to\u00a0\x20\u00a0\x20anyone.\x20\u00a0User\x20can\x20protect\x20his\x20document\x20by\x20setting\x20a\x20password,\x20so\x20only\x20the\x20author\x20or\x20trusty\x20person\x20can\x20open\x20it.\x20";
+          _0x108dc0[_0x299f05(0x15a)] = _0xe0b8d2;
         } else {
-          if (_0x4b515d == _0x3dce40(0x7c)) {
-            (_0x1d7a1d[_0x3dce40(0xd1)] = _0x3dce40(0x99)),
-              (_0x1bd639[_0x3dce40(0xd1)] = _0x3dce40(0x9f)),
-              _0x1d732e["classList"]["add"]("disablelink"),
-              (_0x2a9979["innerHTML"] = _0x3dce40(0x9e));
-            const _0x7c702e =
-              "Covid\x20tracker\x20is\x20a\x20web\x20app\x20that\x20serves\x20the\x20purpose\x20of\x20displaying\x20the\x20information\x0a\x20\x20\x20\x20of\x20covid\x20cases\x20of\x20all\x20the\x20countries.\x20The\x20visual\x20representaion\x20is\x20also\x20done\x20by\x20line\x20and\x20bar\x20graphs.\x20The\x20app\x20will\x20display\x20total\x20cases,\x20total\x20recovered\x20and\x20total\x20deaths\x20in\x20each\x20country\x20and\x20their\x20graph\x20representations.";
-            _0x3d33bb[_0x3dce40(0xd1)] = _0x7c702e;
+          if (_0x1ec532 == "covidTracker") {
+            (_0x19000c[_0x299f05(0x15a)] = _0x299f05(0x157)),
+              (_0x59dee1[_0x299f05(0x15a)] = _0x299f05(0x137)),
+              _0x16494b[_0x299f05(0x159)][_0x299f05(0x162)](_0x299f05(0x136)),
+              (_0x1ff33["innerHTML"] = _0x299f05(0xfa));
+            const _0x1f9d81 = _0x299f05(0x15f);
+            _0x108dc0[_0x299f05(0x15a)] = _0x1f9d81;
           } else {
-            if (_0x4b515d == _0x3dce40(0xa1)) {
-              (_0x1d7a1d["innerHTML"] = "Chatify"),
-                (_0x1bd639[_0x3dce40(0xd1)] = _0x3dce40(0xae)),
-                (_0x2a9979[_0x3dce40(0xd1)] = _0x3dce40(0xc8)),
-                (_0x1d732e[_0x3dce40(0x96)] = _0x3dce40(0xc8));
-              const _0x15315b = _0x3dce40(0xa0);
-              _0x3d33bb[_0x3dce40(0xd1)] = _0x15315b;
+            if (_0x1ec532 == "chatify") {
+              (_0x19000c["innerHTML"] = "Chatify"),
+                (_0x59dee1[_0x299f05(0x15a)] = _0x299f05(0x132)),
+                (_0x1ff33["innerHTML"] = _0x299f05(0x142)),
+                (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x142));
+              const _0x296d87 = _0x299f05(0x108);
+              _0x108dc0[_0x299f05(0x15a)] = _0x296d87;
             } else {
-              if (_0x4b515d == _0x3dce40(0xf1)) {
-                (_0x1d7a1d[_0x3dce40(0xd1)] = _0x3dce40(0x93)),
-                  (_0x1bd639["innerHTML"] = _0x3dce40(0xcc)),
-                  (_0x2a9979[_0x3dce40(0xd1)] =
-                    "https://socialbook-3d2aa.web.app/"),
-                  (_0x1d732e[_0x3dce40(0x96)] = _0x3dce40(0xa5));
-                const _0x14d857 = _0x3dce40(0xc1);
-                _0x3d33bb[_0x3dce40(0xd1)] = _0x14d857;
+              if (_0x1ec532 == _0x299f05(0x135)) {
+                (_0x19000c[_0x299f05(0x15a)] = _0x299f05(0x134)),
+                  (_0x59dee1[_0x299f05(0x15a)] = _0x299f05(0x117)),
+                  (_0x1ff33[_0x299f05(0x15a)] = _0x299f05(0x160)),
+                  (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x160));
+                const _0x436cd1 = _0x299f05(0x118);
+                _0x108dc0[_0x299f05(0x15a)] = _0x436cd1;
+              } else {
+                if (_0x1ec532 == _0x299f05(0xfd)) {
+                  (_0x19000c[_0x299f05(0x15a)] = _0x299f05(0x148)),
+                    (_0x59dee1[_0x299f05(0x15a)] = _0x299f05(0x114)),
+                    (_0x1ff33[_0x299f05(0x15a)] = _0x299f05(0x111)),
+                    (_0x16494b[_0x299f05(0xf8)] = _0x299f05(0x111));
+                  const _0x46945d =
+                    "\x0a\x20\x20<div\x20class=\x22project-details\x20p-4\x20bg-white\x20rounded-lg\x20shadow-md\x22>\x0a\x20\x20\x20\x20<h2\x20class=\x22text-2xl\x20font-bold\x20mb-4\x22>Comox\x20Valley\x20Writing\x20Society\x20Website</h2>\x0a\x20\x20\x20\x20<p\x20class=\x22mb-4\x22><strong>Project\x20Overview:</strong>\x20Developed\x20a\x20modern\x20and\x20interactive\x20website\x20for\x20the\x20Comox\x20Valley\x20Writing\x20Society,\x20leveraging\x20cutting-edge\x20technologies\x20to\x20enhance\x20user\x20engagement\x20and\x20simplify\x20event\x20management.\x20This\x20project\x20aimed\x20to\x20provide\x20members\x20with\x20a\x20seamless\x20platform\x20for\x20accessing\x20resources,\x20participating\x20in\x20discussions,\x20and\x20managing\x20conferences,\x20meetings,\x20and\x20events.</p>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20<h3\x20class=\x22text-xl\x20font-semibold\x20mt-4\x20mb-2\x22>Key\x20Features:</h3>\x0a\x20\x20\x20\x20<ul\x20class=\x22list-disc\x20pl-6\x20space-y-2\x22>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Dynamic\x20Frontend:</strong>\x20Built\x20a\x20responsive,\x20user-friendly\x20interface\x20using\x20<span\x20class=\x22text-blue-500\x22>ReactJS</span>\x20and\x20<span\x20class=\x22text-blue-500\x22>Typescript</span>\x20for\x20a\x20polished\x20and\x20efficient\x20user\x20experience.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Backend\x20Integration:</strong>\x20Implemented\x20robust\x20API\x20endpoints\x20powered\x20by\x20<span\x20class=\x22text-blue-500\x22>Firebase</span>\x20and\x20<span\x20class=\x22text-blue-500\x22>Microsoft\x20SQL\x20Server</span>\x20for\x20reliable\x20data\x20storage\x20and\x20retrieval.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>AI-Powered\x20Features:</strong>\x20Integrated\x20<span\x20class=\x22text-blue-500\x22>OpenAI\x20REST\x20APIs</span>\x20to\x20enable\x20smart\x20content\x20recommendations\x20and\x20user\x20interactions.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Automation\x20and\x20Scripting:</strong>\x20Utilized\x20<span\x20class=\x22text-blue-500\x22>Python</span>\x20for\x20automating\x20backend\x20processes,\x20ensuring\x20smooth\x20and\x20scalable\x20application\x20performance.</li>\x0a\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20<h3\x20class=\x22text-xl\x20font-semibold\x20mt-4\x20mb-2\x22>Impact:</h3>\x0a\x20\x20\x20\x20<p\x20class=\x22mb-4\x22>The\x20CVWS\x20website\x20transformed\x20the\x20society’s\x20digital\x20operations,\x20fostering\x20better\x20communication,\x20improving\x20event\x20coordination,\x20and\x20creating\x20a\x20scalable,\x20future-ready\x20platform.</p>\x0a\x20\x20</div>\x0a";
+                  (_0x108dc0[_0x299f05(0x15a)] = _0x46945d),
+                    (_0x108dc0[_0x299f05(0x15a)] = details);
+                }
               }
             }
           }
@@ -220,246 +117,368 @@ const fillSession = (_0x3c83bc) => {
     }
   },
   sendMail = () => {
-    const _0x18e9a8 = _0x1827,
-      _0x4cfdff = document[_0x18e9a8(0x90)](_0x18e9a8(0xd2))[_0x18e9a8(0xb8)],
-      _0x1b92a1 = document[_0x18e9a8(0x90)](_0x18e9a8(0xe7))["value"],
-      _0x387f24 = document[_0x18e9a8(0x90)]("message")[_0x18e9a8(0xb8)],
-      _0x544b88 = document["getElementById"](_0x18e9a8(0xb7));
-    _0x544b88["innerHTML"] = _0x18e9a8(0xf0);
-    if (_0x4cfdff == "" || _0x1b92a1 == "" || _0x387f24 == "") {
-      (document[_0x18e9a8(0x90)]("fillMessage")[_0x18e9a8(0xed)][
-        _0x18e9a8(0xaf)
-      ] = "block"),
-        (_0x544b88["innerHTML"] = "Send\x20Message"),
+    const _0x127b14 = _0x2221,
+      _0x38f60a = document[_0x127b14(0x152)]("email")[_0x127b14(0x15d)],
+      _0x289b76 = document[_0x127b14(0x152)](_0x127b14(0x100))[
+        _0x127b14(0x15d)
+      ],
+      _0x44b791 = document[_0x127b14(0x152)](_0x127b14(0xf9))[_0x127b14(0x15d)],
+      _0x10f51d = document[_0x127b14(0x152)](_0x127b14(0x14d));
+    _0x10f51d[_0x127b14(0x15a)] = _0x127b14(0x15e);
+    if (_0x38f60a == "" || _0x289b76 == "" || _0x44b791 == "") {
+      (document[_0x127b14(0x152)](_0x127b14(0x10b))[_0x127b14(0x107)][
+        _0x127b14(0x104)
+      ] = _0x127b14(0x11b)),
+        (_0x10f51d["innerHTML"] = "Send\x20Message"),
         resetMessage();
       return;
     }
-    const _0x5a2fa6 =
-      _0x18e9a8(0xc6) +
-      _0x4cfdff +
-      "\x20\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Subject\x20-\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20" +
-      _0x1b92a1 +
-      _0x18e9a8(0xcd) +
-      _0x387f24;
-    Email[_0x18e9a8(0xd4)]({
-      SecureToken: _0x18e9a8(0x8f),
-      To: _0x18e9a8(0x92),
-      From: _0x18e9a8(0x92),
-      Subject: "Mail\x20from\x20portofolio",
-      Body: _0x5a2fa6,
-    })["then"]((_0x380064) => {
-      const _0x577ad6 = _0x18e9a8;
-      (_0x544b88[_0x577ad6(0xd1)] = _0x577ad6(0xc4)),
-        _0x380064 == "OK"
-          ? ((document[_0x577ad6(0x90)](_0x577ad6(0xba))[_0x577ad6(0xed)][
-              _0x577ad6(0xaf)
-            ] = "block"),
-            (document[_0x577ad6(0x90)]("errorMessage")["style"][
-              _0x577ad6(0xaf)
-            ] = _0x577ad6(0x94)),
-            (document[_0x577ad6(0x90)]("fillMessage")[_0x577ad6(0xed)][
-              "display"
-            ] = _0x577ad6(0x94)))
-          : ((document["getElementById"](_0x577ad6(0xdd))["style"]["display"] =
-              _0x577ad6(0x84)),
-            (document["getElementById"]("successMessage")["style"][
-              _0x577ad6(0xaf)
+    const _0x53fc99 =
+      "Message\x20from\x20" +
+      _0x38f60a +
+      "\x20\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20Subject\x20-\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20" +
+      _0x289b76 +
+      _0x127b14(0xfb) +
+      _0x44b791;
+    Email[_0x127b14(0x163)]({
+      SecureToken: _0x127b14(0x11e),
+      To: _0x127b14(0x138),
+      From: _0x127b14(0x138),
+      Subject: _0x127b14(0xf4),
+      Body: _0x53fc99,
+    })[_0x127b14(0x14b)]((_0x494fb0) => {
+      const _0x39be80 = _0x127b14;
+      (_0x10f51d[_0x39be80(0x15a)] = _0x39be80(0x13a)),
+        _0x494fb0 == "OK"
+          ? ((document[_0x39be80(0x152)](_0x39be80(0x11c))[_0x39be80(0x107)][
+              _0x39be80(0x104)
+            ] = _0x39be80(0x11b)),
+            (document[_0x39be80(0x152)](_0x39be80(0x165))[_0x39be80(0x107)][
+              _0x39be80(0x104)
+            ] = _0x39be80(0x141)),
+            (document["getElementById"]("fillMessage")["style"][
+              _0x39be80(0x104)
+            ] = "none"))
+          : ((document[_0x39be80(0x152)](_0x39be80(0x165))[_0x39be80(0x107)][
+              _0x39be80(0x104)
+            ] = _0x39be80(0x11b)),
+            (document["getElementById"](_0x39be80(0x11c))[_0x39be80(0x107)][
+              _0x39be80(0x104)
             ] = "none"),
-            (document[_0x577ad6(0x90)](_0x577ad6(0xea))[_0x577ad6(0xed)][
-              "display"
-            ] = "none")),
+            (document[_0x39be80(0x152)](_0x39be80(0x10b))["style"][
+              _0x39be80(0x104)
+            ] = _0x39be80(0x141))),
         resetMessage();
     });
   },
   resetMessage = () => {
     setTimeout(() => {
-      const _0x3d03c4 = _0x1827;
-      (document["getElementById"](_0x3d03c4(0xba))[_0x3d03c4(0xed)][
-        _0x3d03c4(0xaf)
-      ] = _0x3d03c4(0x94)),
-        (document[_0x3d03c4(0x90)](_0x3d03c4(0xdd))["style"][_0x3d03c4(0xaf)] =
-          _0x3d03c4(0x94)),
-        (document[_0x3d03c4(0x90)](_0x3d03c4(0xea))["style"]["display"] =
-          _0x3d03c4(0x94));
+      const _0x912026 = _0x2221;
+      (document["getElementById"](_0x912026(0x11c))["style"][_0x912026(0x104)] =
+        "none"),
+        (document["getElementById"](_0x912026(0x165))[_0x912026(0x107)][
+          _0x912026(0x104)
+        ] = _0x912026(0x141)),
+        (document[_0x912026(0x152)](_0x912026(0x10b))[_0x912026(0x107)][
+          _0x912026(0x104)
+        ] = _0x912026(0x141));
     }, 0x1388);
   };
-function _0x1827(_0x167ec6, _0x2fe865) {
-  const _0x3202d6 = _0x3202();
-  return (
-    (_0x1827 = function (_0x1827fc, _0x1c6fd4) {
-      _0x1827fc = _0x1827fc - 0x7c;
-      let _0x3cda90 = _0x3202d6[_0x1827fc];
-      return _0x3cda90;
-    }),
-    _0x1827(_0x167ec6, _0x2fe865)
-  );
+function _0x4355() {
+  const _0x35ec38 = [
+    ".scrollto",
+    "2.png",
+    "https://cvwsconference.web.app/",
+    "#navbar\x20.scrollto",
+    "location",
+    "ReactJS,\x20Firebase,\x20Typescript,\x20OpenAI\x20Rest\x20Api\x27s,\x20Python,\x20Microsoft\x20Sql\x20Server",
+    "bullets",
+    "ease-in-out",
+    "ReactJS,\x20Postgres,\x20TypeScript,\x20OpenAI\x20moderation\x20API\x27s,\x20Node.js,\x20Microsoft\x20Azure,\x20Firebase,\x20Tailwind",
+    "\x0a\x20\x20<div\x20class=\x22project-details\x20p-4\x20bg-white\x20rounded-lg\x20shadow-md\x22>\x0a\x20\x20\x20\x20<h2\x20class=\x22text-2xl\x20font-bold\x20mb-4\x22>SocialBook</h2>\x0a\x20\x20\x20\x20<p\x20class=\x22mb-4\x22>\x0a\x20\x20\x20\x20\x20\x20<strong>Project\x20Overview:</strong>\x20SocialBook\x20is\x20an\x20advanced\x20social\x20networking\x20platform\x20tailored\x20for\x20educational\x20institutions.\x20It\x20fosters\x20collaboration\x20and\x20engagement\x20by\x20integrating\x20academic\x20discussions,\x20event\x20management,\x20and\x20a\x20user-friendly\x20directory.\x20The\x20platform\x20leverages\x20cutting-edge\x20technologies\x20to\x20provide\x20a\x20secure,\x20scalable,\x20and\x20interactive\x20experience\x20for\x20students\x20and\x20faculty\x20alike.\x0a\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20<h3\x20class=\x22text-xl\x20font-semibold\x20mt-4\x20mb-2\x22>Key\x20Features:</h3>\x0a\x20\x20\x20\x20<ul\x20class=\x22list-disc\x20pl-6\x20space-y-2\x22>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Interactive\x20Posts\x20and\x20Discussions:</strong>\x20Users\x20can\x20share\x20posts,\x20upload\x20multimedia\x20content,\x20and\x20engage\x20through\x20likes,\x20comments,\x20and\x20discussions.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Event\x20Management:</strong>\x20Seamlessly\x20organize\x20and\x20manage\x20events,\x20track\x20attendees,\x20and\x20provide\x20real-time\x20updates.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>People\x20Directory:</strong>\x20A\x20comprehensive\x20directory\x20for\x20students\x20and\x20faculty\x20to\x20enhance\x20networking\x20and\x20collaboration.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>AI-Powered\x20Moderation:</strong>\x20Integrated\x20<span\x20class=\x22text-blue-500\x22>OpenAI\x20Moderation\x20APIs</span>\x20to\x20ensure\x20safe\x20and\x20respectful\x20interactions.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Scalable\x20Backend:</strong>\x20Built\x20using\x20<span\x20class=\x22text-blue-500\x22>Node.js</span>\x20and\x20<span\x20class=\x22text-blue-500\x22>PostgreSQL</span>\x20for\x20robust\x20and\x20efficient\x20data\x20handling.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Modern\x20Frontend:</strong>\x20Developed\x20a\x20responsive\x20and\x20intuitive\x20interface\x20using\x20<span\x20class=\x22text-blue-500\x22>ReactJS</span>,\x20<span\x20class=\x22text-blue-500\x22>TypeScript</span>,\x20and\x20styled\x20with\x20<span\x20class=\x22text-blue-500\x22>Tailwind\x20CSS</span>.</li>\x0a\x20\x20\x20\x20\x20\x20<li><strong>Cloud\x20Integration:</strong>\x20Deployed\x20on\x20<span\x20class=\x22text-blue-500\x22>Microsoft\x20Azure</span>\x20for\x20scalability\x20and\x20reliability,\x20with\x20additional\x20features\x20supported\x20by\x20<span\x20class=\x22text-blue-500\x22>Firebase</span>.</li>\x0a\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20<h3\x20class=\x22text-xl\x20font-semibold\x20mt-4\x20mb-2\x22>Impact:</h3>\x0a\x20\x20\x20\x20<p\x20class=\x22mb-4\x22>\x0a\x20\x20\x20\x20\x20\x20SocialBook\x20revolutionized\x20digital\x20engagement\x20within\x20educational\x20institutions,\x20enabling\x20streamlined\x20communication,\x20enhancing\x20academic\x20collaboration,\x20and\x20fostering\x20a\x20vibrant\x20community\x20environment.\x0a\x20\x20\x20\x20</p>\x0a\x20\x20</div>\x0a",
+    "AngularJS,\x20Node.js,\x20Typescript,\x20MongoDB,\x20CSS,\x20SCSS",
+    "scrollTo",
+    "block",
+    "successMessage",
+    "https://paste1.web.app/",
+    "c5e9bf8d-df6b-4c0e-a1c9-76814802a10c",
+    ".typed",
+    "querySelectorAll",
+    ".testimonials-slider",
+    "data-filter",
+    ".skills-content",
+    "4945808qkKeYH",
+    "auto",
+    "scrollY",
+    "7280170OGRKwe",
+    "Onspot\x20is\x20a\x20music\x20streaming\x20app,\x20where\x20you\x20can\x20listen\x20to\x20latest\x20top\u00a0\x20\u00a0\x20tracks,\x20music\x20albumbs\x20and\x20to\x20your\x20favourite\x20artists.\x20You\x20can\x20take\x20a\x20tour\x20of\x20the\x20site\x20to\x20listen\x20to\x20previews\x20and\x20can\x20login\x20with\x20google\u00a0\x20\u00a0\x20to\x20do\x20much\x20more\x20and\x20make\x20your\x20own\x20playlists\x20and\x20collections.",
+    "https://onspot-efb66.web.app/",
+    "604112SiPgYD",
+    "80%",
+    "3973410Pyvpyi",
+    "body",
+    ".portfolio-item",
+    "React,\x20Node.js,\x20MongoDB,\x20SCSS,\x20Javascript",
+    "remove",
+    "446126SYHhak",
+    "React.js,\x20Node.js,\x20Firebase,\x20Postgres,\x20Tailwind,\x20Ant-design",
+    "data-typed-items",
+    "Social\x20Book",
+    "socialbook",
+    "disablelink",
+    "ReactJS,\x20Javascript,\x20Material\x20UI,\x20Node.js,\x20CSS",
+    "samlauser2@gmail.com",
+    ".portfolio-container",
+    "Send\x20Message",
+    "projectImg2",
+    "projectLink",
+    "https://teamybyyogesh.web.app/",
+    "getAttribute",
+    "onspot",
+    "Pastebin\x20Copy\x20&\x20Paste",
+    "none",
+    "https://chatify01.web.app/",
+    "addEventListener",
+    "preventDefault",
+    ".mobile-nav-toggle",
+    "offsetTop",
+    "projectName",
+    "CVWS\x20writing\x20Conference\x20platform",
+    "setItem",
+    "bi-list",
+    "then",
+    ".progress\x20.progress-bar",
+    "sendMailBtn",
+    "filter-active",
+    ".swiper-pagination",
+    "toggle",
+    "querySelector",
+    "getElementById",
+    "projectUrl",
+    "assets/img/portfolio/",
+    "active",
+    "63MlYGph",
+    "Covid\x2019\x20tracker",
+    "#portfolio-flters\x20li",
+    "classList",
+    "innerHTML",
+    "arrange",
+    "init",
+    "value",
+    "Sending\x20Message....",
+    "Covid\x20tracker\x20is\x20a\x20web\x20app\x20that\x20serves\x20the\x20purpose\x20of\x20displaying\x20the\x20information\u00a0\x20\u00a0\x20of\x20covid\x20cases\x20of\x20all\x20the\x20countries.\x20The\x20visual\x20representaion\x20is\x20also\x20done\x20by\x20line\x20and\x20bar\x20graphs.\x20The\x20app\x20will\x20display\x20total\x20cases,\x20total\x20recovered\x20and\x20total\x20deaths\x20in\x20each\x20country\x20and\x20their\x20graph\x20representations.",
+    "https://socialbook-3d2aa.web.app/",
+    "click",
+    "add",
+    "send",
+    "getItem",
+    "errorMessage",
+    "hash",
+    "Teamy\x20Video\x20calling\x20app",
+    "src",
+    "projectCategory",
+    "75ikVTxl",
+    "Mail\x20from\x20portofolio",
+    "2747214NhnmYW",
+    ".portfolio-details-slider",
+    ".portfolio-lightbox",
+    "href",
+    "message",
+    "N/A",
+    "\x20\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20Message\x20-\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20\u00a0\x20",
+    "projectImg1",
+    "cvws",
+    "split",
+    "AngularJS,\x20Typescript,\x20Node.js,\x20MongoDB,\x20NG-ZORRO\x20Ant\x20design,\x20SCSS",
+    "subject",
+    "forEach",
+    "mobile-nav-active",
+    "2nqRScB",
+    "display",
+    "185328NSMZTS",
+    "scroll",
+    "style",
+    "Chatify\x20is\x20a\x20modern\x20messaging\x20platform\x20designed\x20to\x20make\x20communication\x20seamless\x20and\x20intuitive,\x20just\x20like\x20popular\x20messaging\x20apps\x20such\x20as\x20WhatsApp.\x20With\x20Chatify,\x20users\x20can\x20create\x20accounts,\x20log\x20in,\x20and\x20start\x20messaging\x20friends\x20instantly.\x20Whether\x20you\x27re\x20sharing\x20text,\x20photos,\x20or\x20videos,\x20Chatify\x20offers\x20a\x20smooth\x20and\x20secure\x20experience.\x20Users\x20can\x20also\x20set\x20up\x20personalized\x20profiles\x20to\x20express\x20their\x20identity\x20while\x20staying\x20connected\x20with\x20others.",
+    "teamy",
+    "width",
+    "fillMessage",
+    "load",
+    "pastebin",
+    "bi-x",
+  ];
+  _0x4355 = function () {
+    return _0x35ec38;
+  };
+  return _0x4355();
 }
 (function () {
   "use strict";
-  const _0x1ca5ef = _0x1827;
-  const _0x4d85da = (_0x4e0fbb, _0x5bcbd8 = ![]) => {
-      const _0x28f847 = _0x1827;
+  const _0xab9ce2 = _0x2221;
+  const _0x43ba3d = (_0x5c29c6, _0x47f197 = ![]) => {
+      const _0x4f24e5 = _0x2221;
       return (
-        (_0x4e0fbb = _0x4e0fbb[_0x28f847(0xca)]()),
-        _0x5bcbd8
-          ? [...document[_0x28f847(0x9c)](_0x4e0fbb)]
-          : document[_0x28f847(0x7e)](_0x4e0fbb)
+        (_0x5c29c6 = _0x5c29c6["trim"]()),
+        _0x47f197
+          ? [...document[_0x4f24e5(0x120)](_0x5c29c6)]
+          : document[_0x4f24e5(0x151)](_0x5c29c6)
       );
     },
-    _0xf5aaa4 = (_0x196246, _0x8dd7b, _0x26996f, _0x28425c = ![]) => {
-      const _0x106a75 = _0x1827;
-      let _0x41ed77 = _0x4d85da(_0x8dd7b, _0x28425c);
-      _0x41ed77 &&
-        (_0x28425c
-          ? _0x41ed77["forEach"]((_0x47ac2b) =>
-              _0x47ac2b[_0x106a75(0x9b)](_0x196246, _0x26996f)
+    _0x4cacca = (_0xa05afa, _0x91df6, _0x1b92c3, _0x1db249 = ![]) => {
+      const _0x1ce081 = _0x2221;
+      let _0x164ad3 = _0x43ba3d(_0x91df6, _0x1db249);
+      _0x164ad3 &&
+        (_0x1db249
+          ? _0x164ad3[_0x1ce081(0x101)]((_0x3bae13) =>
+              _0x3bae13[_0x1ce081(0x143)](_0xa05afa, _0x1b92c3)
             )
-          : _0x41ed77[_0x106a75(0x9b)](_0x196246, _0x26996f));
+          : _0x164ad3[_0x1ce081(0x143)](_0xa05afa, _0x1b92c3));
     },
-    _0x2832dd = (_0xddfac4, _0x56b7f1) => {
-      const _0x53cbcd = _0x1827;
-      _0xddfac4[_0x53cbcd(0x9b)](_0x53cbcd(0xc2), _0x56b7f1);
+    _0x304606 = (_0xe0388b, _0x5202a2) => {
+      const _0x4f4b03 = _0x2221;
+      _0xe0388b[_0x4f4b03(0x143)](_0x4f4b03(0x106), _0x5202a2);
     };
-  let _0x339025 = _0x4d85da(_0x1ca5ef(0x81), !![]);
-  const _0x244b71 = () => {
-    const _0x295fd2 = _0x1ca5ef;
-    let _0x26a223 = window[_0x295fd2(0xbb)] + 0xc8;
-    _0x339025[_0x295fd2(0xcb)]((_0x2dc1e5) => {
-      const _0x5a2ff8 = _0x295fd2;
-      if (!_0x2dc1e5[_0x5a2ff8(0xd9)]) return;
-      let _0x452f1c = _0x4d85da(_0x2dc1e5[_0x5a2ff8(0xd9)]);
-      if (!_0x452f1c) return;
-      _0x26a223 >= _0x452f1c["offsetTop"] &&
-      _0x26a223 <= _0x452f1c[_0x5a2ff8(0xd5)] + _0x452f1c[_0x5a2ff8(0xdc)]
-        ? _0x2dc1e5[_0x5a2ff8(0xdf)][_0x5a2ff8(0x8b)]("active")
-        : _0x2dc1e5["classList"][_0x5a2ff8(0x95)](_0x5a2ff8(0x80));
+  let _0xee6cff = _0x43ba3d(_0xab9ce2(0x112), !![]);
+  const _0x56628e = () => {
+    const _0x677683 = _0xab9ce2;
+    let _0x11e6f7 = window[_0x677683(0x126)] + 0xc8;
+    _0xee6cff["forEach"]((_0x2b508a) => {
+      const _0x24a31f = _0x677683;
+      if (!_0x2b508a[_0x24a31f(0x166)]) return;
+      let _0x1438c9 = _0x43ba3d(_0x2b508a["hash"]);
+      if (!_0x1438c9) return;
+      _0x11e6f7 >= _0x1438c9[_0x24a31f(0x146)] &&
+      _0x11e6f7 <= _0x1438c9[_0x24a31f(0x146)] + _0x1438c9["offsetHeight"]
+        ? _0x2b508a[_0x24a31f(0x159)][_0x24a31f(0x162)](_0x24a31f(0x155))
+        : _0x2b508a["classList"][_0x24a31f(0x130)](_0x24a31f(0x155));
     });
   };
-  window[_0x1ca5ef(0x9b)]("load", _0x244b71), _0x2832dd(document, _0x244b71);
-  const _0x54a82a = (_0x3f91e9) => {
-    const _0xd0a2e = _0x1ca5ef;
-    let _0x54a8ee = _0x4d85da(_0x3f91e9)["offsetTop"];
-    window[_0xd0a2e(0xe9)]({ top: _0x54a8ee, behavior: _0xd0a2e(0xcf) });
+  window[_0xab9ce2(0x143)](_0xab9ce2(0x10c), _0x56628e),
+    _0x304606(document, _0x56628e);
+  const _0x20cd3c = (_0x237465) => {
+    const _0x464ac9 = _0xab9ce2;
+    let _0x340c72 = _0x43ba3d(_0x237465)[_0x464ac9(0x146)];
+    window[_0x464ac9(0x11a)]({ top: _0x340c72, behavior: "smooth" });
   };
-  let _0x3f75de = _0x4d85da(".back-to-top");
-  if (_0x3f75de) {
-    const _0x5db70c = () => {
-      const _0x34177a = _0x1ca5ef;
-      window[_0x34177a(0xbb)] > 0x64
-        ? _0x3f75de[_0x34177a(0xdf)][_0x34177a(0x8b)](_0x34177a(0x80))
-        : _0x3f75de["classList"][_0x34177a(0x95)](_0x34177a(0x80));
+  let _0x34e21d = _0x43ba3d(".back-to-top");
+  if (_0x34e21d) {
+    const _0x3178a2 = () => {
+      const _0x1324dc = _0xab9ce2;
+      window[_0x1324dc(0x126)] > 0x64
+        ? _0x34e21d["classList"][_0x1324dc(0x162)](_0x1324dc(0x155))
+        : _0x34e21d[_0x1324dc(0x159)][_0x1324dc(0x130)](_0x1324dc(0x155));
     };
-    window[_0x1ca5ef(0x9b)](_0x1ca5ef(0xf2), _0x5db70c),
-      _0x2832dd(document, _0x5db70c);
+    window[_0xab9ce2(0x143)](_0xab9ce2(0x10c), _0x3178a2),
+      _0x304606(document, _0x3178a2);
   }
-  _0xf5aaa4(_0x1ca5ef(0xc9), ".mobile-nav-toggle", function (_0x2a84b5) {
-    const _0x4cd310 = _0x1ca5ef;
-    _0x4d85da("body")[_0x4cd310(0xdf)][_0x4cd310(0x98)]("mobile-nav-active"),
-      this[_0x4cd310(0xdf)]["toggle"](_0x4cd310(0xd6)),
-      this[_0x4cd310(0xdf)][_0x4cd310(0x98)](_0x4cd310(0xa6));
+  _0x4cacca("click", ".mobile-nav-toggle", function (_0xf7c10b) {
+    const _0x35e3a4 = _0xab9ce2;
+    _0x43ba3d(_0x35e3a4(0x12d))[_0x35e3a4(0x159)][_0x35e3a4(0x150)](
+      _0x35e3a4(0x102)
+    ),
+      this[_0x35e3a4(0x159)][_0x35e3a4(0x150)](_0x35e3a4(0x14a)),
+      this[_0x35e3a4(0x159)][_0x35e3a4(0x150)](_0x35e3a4(0x10e));
   }),
-    _0xf5aaa4(
-      _0x1ca5ef(0xc9),
-      _0x1ca5ef(0x91),
-      function (_0x252436) {
-        const _0x3ddc24 = _0x1ca5ef;
-        if (_0x4d85da(this[_0x3ddc24(0xd9)])) {
-          _0x252436[_0x3ddc24(0xa7)]();
-          let _0x4b5168 = _0x4d85da(_0x3ddc24(0xe4));
-          if (_0x4b5168[_0x3ddc24(0xdf)][_0x3ddc24(0xf3)](_0x3ddc24(0x82))) {
-            _0x4b5168["classList"][_0x3ddc24(0x95)]("mobile-nav-active");
-            let _0x1c9a1c = _0x4d85da(_0x3ddc24(0x8a));
-            _0x1c9a1c[_0x3ddc24(0xdf)]["toggle"](_0x3ddc24(0xd6)),
-              _0x1c9a1c[_0x3ddc24(0xdf)]["toggle"]("bi-x");
+    _0x4cacca(
+      _0xab9ce2(0x161),
+      _0xab9ce2(0x10f),
+      function (_0x416445) {
+        const _0x55b847 = _0xab9ce2;
+        if (_0x43ba3d(this[_0x55b847(0x166)])) {
+          _0x416445[_0x55b847(0x144)]();
+          let _0x2f7c6a = _0x43ba3d(_0x55b847(0x12d));
+          if (_0x2f7c6a[_0x55b847(0x159)]["contains"](_0x55b847(0x102))) {
+            _0x2f7c6a[_0x55b847(0x159)][_0x55b847(0x130)](_0x55b847(0x102));
+            let _0x1d2cdb = _0x43ba3d(_0x55b847(0x145));
+            _0x1d2cdb[_0x55b847(0x159)][_0x55b847(0x150)](_0x55b847(0x14a)),
+              _0x1d2cdb[_0x55b847(0x159)]["toggle"]("bi-x");
           }
-          _0x54a82a(this[_0x3ddc24(0xd9)]);
+          _0x20cd3c(this["hash"]);
         }
       },
       !![]
     ),
-    window[_0x1ca5ef(0x9b)](_0x1ca5ef(0xf2), () => {
-      const _0x280477 = _0x1ca5ef;
-      window["location"][_0x280477(0xd9)] &&
-        _0x4d85da(window[_0x280477(0xab)][_0x280477(0xd9)]) &&
-        _0x54a82a(window[_0x280477(0xab)][_0x280477(0xd9)]);
+    window[_0xab9ce2(0x143)](_0xab9ce2(0x10c), () => {
+      const _0x592008 = _0xab9ce2;
+      window[_0x592008(0x113)][_0x592008(0x166)] &&
+        _0x43ba3d(window[_0x592008(0x113)][_0x592008(0x166)]) &&
+        _0x20cd3c(window["location"]["hash"]);
     });
-  const _0xbc59b4 = _0x4d85da(_0x1ca5ef(0x88));
-  if (_0xbc59b4) {
-    let _0x1d8a3f = _0xbc59b4[_0x1ca5ef(0xe2)](_0x1ca5ef(0xd8));
-    (_0x1d8a3f = _0x1d8a3f["split"](",")),
-      new Typed(_0x1ca5ef(0x88), {
-        strings: _0x1d8a3f,
+  const _0x566ebd = _0x43ba3d(_0xab9ce2(0x11f));
+  if (_0x566ebd) {
+    let _0xe75c3b = _0x566ebd[_0xab9ce2(0x13e)](_0xab9ce2(0x133));
+    (_0xe75c3b = _0xe75c3b[_0xab9ce2(0xfe)](",")),
+      new Typed(_0xab9ce2(0x11f), {
+        strings: _0xe75c3b,
         loop: !![],
         typeSpeed: 0x64,
         backSpeed: 0x32,
         backDelay: 0x7d0,
       });
   }
-  let _0x4fa1d4 = _0x4d85da(_0x1ca5ef(0xa2));
-  _0x4fa1d4 &&
+  let _0x12648f = _0x43ba3d(_0xab9ce2(0x123));
+  _0x12648f &&
     new Waypoint({
-      element: _0x4fa1d4,
-      offset: "80%",
-      handler: function (_0x44ec5a) {
-        const _0x1d66de = _0x1ca5ef;
-        let _0xfbe2a2 = _0x4d85da(".progress\x20.progress-bar", !![]);
-        _0xfbe2a2[_0x1d66de(0xcb)]((_0x2c3ca5) => {
-          const _0xdc16eb = _0x1d66de;
-          _0x2c3ca5[_0xdc16eb(0xed)]["width"] =
-            _0x2c3ca5[_0xdc16eb(0xe2)](_0xdc16eb(0x97)) + "%";
+      element: _0x12648f,
+      offset: _0xab9ce2(0x12b),
+      handler: function (_0x6b3524) {
+        const _0x12fe5a = _0xab9ce2;
+        let _0x6a7803 = _0x43ba3d(_0x12fe5a(0x14c), !![]);
+        _0x6a7803["forEach"]((_0x216557) => {
+          const _0x21e2eb = _0x12fe5a;
+          _0x216557[_0x21e2eb(0x107)][_0x21e2eb(0x10a)] =
+            _0x216557["getAttribute"]("aria-valuenow") + "%";
         });
       },
     });
-  window[_0x1ca5ef(0x9b)](_0x1ca5ef(0xf2), () => {
-    const _0x71aeb6 = _0x1ca5ef;
-    let _0x4980c3 = _0x4d85da(_0x71aeb6(0xda));
-    if (_0x4980c3) {
-      let _0x46d318 = new Isotope(_0x4980c3, {
-          itemSelector: ".portfolio-item",
+  window[_0xab9ce2(0x143)](_0xab9ce2(0x10c), () => {
+    const _0x308d23 = _0xab9ce2;
+    let _0x4b7b5c = _0x43ba3d(_0x308d23(0x139));
+    if (_0x4b7b5c) {
+      let _0x3ab1ba = new Isotope(_0x4b7b5c, {
+          itemSelector: _0x308d23(0x12e),
         }),
-        _0x5cabe3 = _0x4d85da(_0x71aeb6(0xc0), !![]);
-      _0xf5aaa4(
-        _0x71aeb6(0xc9),
-        _0x71aeb6(0xc0),
-        function (_0x42c09c) {
-          const _0x1c4fb0 = _0x71aeb6;
-          _0x42c09c[_0x1c4fb0(0xa7)](),
-            _0x5cabe3[_0x1c4fb0(0xcb)](function (_0xaf2630) {
-              const _0x682e3a = _0x1c4fb0;
-              _0xaf2630[_0x682e3a(0xdf)][_0x682e3a(0x95)](_0x682e3a(0xa4));
+        _0x3c1b8d = _0x43ba3d("#portfolio-flters\x20li", !![]);
+      _0x4cacca(
+        _0x308d23(0x161),
+        _0x308d23(0x158),
+        function (_0x2496b7) {
+          const _0x244141 = _0x308d23;
+          _0x2496b7[_0x244141(0x144)](),
+            _0x3c1b8d[_0x244141(0x101)](function (_0x1d8620) {
+              const _0x1c2e80 = _0x244141;
+              _0x1d8620[_0x1c2e80(0x159)]["remove"](_0x1c2e80(0x14e));
             }),
-            this[_0x1c4fb0(0xdf)][_0x1c4fb0(0x8b)]("filter-active"),
-            _0x46d318[_0x1c4fb0(0x87)]({
-              filter: this[_0x1c4fb0(0xe2)](_0x1c4fb0(0xce)),
+            this["classList"][_0x244141(0x162)](_0x244141(0x14e)),
+            _0x3ab1ba[_0x244141(0x15b)]({
+              filter: this[_0x244141(0x13e)](_0x244141(0x122)),
             }),
-            _0x46d318["on"]("arrangeComplete", function () {
-              const _0x1fa003 = _0x1c4fb0;
-              AOS[_0x1fa003(0x8e)]();
+            _0x3ab1ba["on"]("arrangeComplete", function () {
+              AOS["refresh"]();
             });
         },
         !![]
       );
     }
   });
-  const _0x361310 = GLightbox({ selector: ".portfolio-lightbox" });
-  new Swiper(_0x1ca5ef(0xbd), {
+  const _0x5ae302 = GLightbox({ selector: _0xab9ce2(0xf7) });
+  new Swiper(_0xab9ce2(0xf6), {
     speed: 0x190,
     loop: !![],
     autoplay: { delay: 0x1388, disableOnInteraction: ![] },
     pagination: {
-      el: ".swiper-pagination",
-      type: _0x1ca5ef(0xbf),
+      el: _0xab9ce2(0x14f),
+      type: _0xab9ce2(0x115),
       clickable: !![],
     },
   }),
-    new Swiper(_0x1ca5ef(0x85), {
+    new Swiper(_0xab9ce2(0x121), {
       speed: 0x258,
       loop: !![],
       autoplay: { delay: 0x1388, disableOnInteraction: ![] },
-      slidesPerView: _0x1ca5ef(0xb4),
+      slidesPerView: _0xab9ce2(0x125),
       pagination: {
-        el: _0x1ca5ef(0xe5),
-        type: _0x1ca5ef(0xbf),
+        el: ".swiper-pagination",
+        type: _0xab9ce2(0x115),
         clickable: !![],
       },
       breakpoints: {
@@ -467,11 +486,11 @@ function _0x1827(_0x167ec6, _0x2fe865) {
         0x4b0: { slidesPerView: 0x3, spaceBetween: 0x14 },
       },
     }),
-    window[_0x1ca5ef(0x9b)](_0x1ca5ef(0xf2), () => {
-      const _0x1261a7 = _0x1ca5ef;
-      AOS[_0x1261a7(0xa9)]({
+    window[_0xab9ce2(0x143)](_0xab9ce2(0x10c), () => {
+      const _0x266dc2 = _0xab9ce2;
+      AOS[_0x266dc2(0x15c)]({
         duration: 0x3e8,
-        easing: _0x1261a7(0x7d),
+        easing: _0x266dc2(0x116),
         once: !![],
         mirror: ![],
       });
